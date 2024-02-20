@@ -37,3 +37,4 @@ Missing Features
 1) Sound Effects: No sound effects across all games.
 2) Money Mechanics: Games can be played without money, allowing for negative totals in poker.
 3) Blackjack dealer will not autowin/draw if they have blackjack
+4) An in game how to play screen
