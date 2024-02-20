@@ -27,6 +27,7 @@ Stand Bug: After busting, hitting the stand button deals two cards at a time, ca
 Poker
 Visual Effects: Missing visual effects, including visible cards at the start or during play. Instant actions without delay for the draw and deal functions. Cards do not disappear until the deal button is pressed again.
 Missing Features
-Sound Effects: No sound effects across all games.
-Money Mechanics: Games can be played without money, allowing for negative totals in poker.
-Blackjack dealer will not autowin/draw if they have blackjack
+1) Sound Effects: No sound effects across all games.
+2) Money Mechanics: Games can be played without money, allowing for negative totals in poker.
+3) Blackjack dealer will not autowin/draw if they have blackjack
+4) It is possioble, though unlikely, that the same card(s) can be drawn after the deck is empty, then re-initialialized
