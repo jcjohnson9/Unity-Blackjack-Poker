@@ -29,3 +29,4 @@ Visual Effects: Missing visual effects, including visible cards at the start or 
 Missing Features
 Sound Effects: No sound effects across all games.
 Money Mechanics: Games can be played without money, allowing for negative totals in poker.
+Blackjack dealer will not autowin/draw if they have blackjack
